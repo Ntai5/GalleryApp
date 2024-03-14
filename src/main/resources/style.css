@@ -1,0 +1,21 @@
+.root {
+    -fx-background-color: #a1cddf;
+    -fx-padding: 20px;
+}
+
+
+.label {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-background-color: #729ea1;
+}
+
+.image-view {
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+}
